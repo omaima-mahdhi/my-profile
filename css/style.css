@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+
+@import url("components/avatar.css") 
+body{
+	font-family: 'Roboto', sans-serif;
+	font-size: 18px;
+}
+h1,h2,h3{
+	font-family: 'Roboto' ,sans-serif;
+	font-weight: bold;
+}
+@import url("components/button.css")
